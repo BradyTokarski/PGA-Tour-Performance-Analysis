@@ -1,8 +1,5 @@
 # PGA Tour Performance Analysis
 
-### [📊 View Full Project (HTML)](https://bradytokarski.github.io/?https://raw.githubusercontent.com/BradyTokarski/PGA-Tour-Performance-Analysis/main/PGA_Tour_Analysis.html)
-
-
 ## Project Overview
 This project analyzes 2025 PGA Tour player statistics to investigate whether longer driving distance is associated with better scoring performance, more top-10 finishes, and higher earnings. Data was collected from ESPN using Python web scraping and examined through data visualization, descriptive statistics, and hypothesis testing.
 
