@@ -1,6 +1,6 @@
 # PGA Tour Performance Analysis
 
-### [📊 View Full Project (HTML)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/BradyTokarski/PGA-Tour-Performance-Analysis/main/PGA_Tour_Analysis.html)
+### [📊 View Full Project (HTML)](https://bradytokarski.github.io/?https://raw.githubusercontent.com/BradyTokarski/PGA-Tour-Performance-Analysis/main/PGA_Tour_Analysis.html)
 
 
 ## Project Overview
